@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -p  htg/(welcome/,welcome/to/,welcome/to/school)/basics
+mkdir -p welcome/to/school/
