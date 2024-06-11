@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir my_dir $(chmode 751 permissions)
+mkdir -m my_dir $(chmod rwx a+x)
