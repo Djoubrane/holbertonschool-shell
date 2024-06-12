@@ -1,1 +1,1 @@
-This script displays the absolute path name of the current working directory
+shell redirections and filters
